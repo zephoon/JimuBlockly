@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Aterrizaje';
+MSG.c4_startstory_1 = 'La gravedad de la estrella Alfa es 2/5 la de la Tierra.';
+MSG.c4_startstory_2 = 'Cambia al modo Gravedad baja para aterrizar.';
+MSG.c4_endstory_1 = '¡Bien, has aterrizado en la estrella Alfa!';
+MSG.c4_step_page1_1 = 'Astron ha aterrizado en el planeta y tiene que pasar al modo Gravedad baja para aprender a andar. Ya ha completado la espera, ha subido y bajado el pie derecho, y ha subido el pie izquierdo. Ayuda a Astron a completar el último paso:';
+MSG.c4_step_page1_2 = '1. Baja el pie izqdo.';
+MSG.c4_step_page1_3 = 'Servo 1: 0° Servo 2: 40° Servo 3: 40° Servo 4: 0°';
+MSG.c4_step_page2_1 = 'Bajar pie izqdo.';
+MSG.c4_step_page2_2 = 'Los servos controlan cómo camina Astron. Define los parámetros de ángulo de los servos para ayudar a Astron a bajar el pie izquierdo.';
+MSG.c4_step_page2_3 = '1. Enciende el servomotor.';
+MSG.c4_step_page2_4 = '2. Selec. ID de servo.';
+MSG.c4_step_page2_5 = '3. Haz que el servo gire en sentido antihorario.';
+MSG.c4_step_page2_6 = '4. Haz que el servo gire en sentido horario.';

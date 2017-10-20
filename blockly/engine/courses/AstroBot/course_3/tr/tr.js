@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Çalışma testi';
+MSG.c3_startstory_1 = 'Çalışma testinden sonra performansın da test edilmesi gerekir.';
+MSG.c3_endstory_1 = 'Harika! Astronun hareket kabiliyeti normal!';
+MSG.c3_endstory_2 = 'Tamam, hadi gidelim!';
+MSG.c3_step_page1_1 = 'Görev detayları';
+MSG.c3_step_page1_2 = 'Rover\'a yürüme gibi temel hareketleri öğrenmek için yardım edin';
+MSG.c3_step_page1_3 = '1. İleriye Hareket Et';
+MSG.c3_step_page1_4 = '2. Geri Çekil';
+MSG.c3_step_page1_5 = '3. Bekle 2000 ms ';
+MSG.c3_step_page1_6 = '4. Sola Hareket Et';
+MSG.c3_step_page1_7 = '5. Sağa Hareket Etme';
+MSG.c3_step_page2_1 = 'Program bloğunu sırayla birleştirin';
+MSG.c3_step_page3_1 = 'Indstil ventetil til 2000 ms ';

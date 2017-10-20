@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Test cinétique';
+MSG.c3_startstory_1 = 'Pour finir, Astron doit passer un test de performance.';
+MSG.c3_endstory_1 = 'Cool ! La mobilité d\'Astron est bonne !';
+MSG.c3_endstory_2 = 'Allons-y !';
+MSG.c3_step_page1_1 = 'Mission';
+MSG.c3_step_page1_2 = 'Aide Rover à apprendre à marcher.';
+MSG.c3_step_page1_3 = '1. Avancer';
+MSG.c3_step_page1_4 = '2. Reculer';
+MSG.c3_step_page1_5 = '3. Attendre 2000 ms';
+MSG.c3_step_page1_6 = '4. Déplacement vers la gauche';
+MSG.c3_step_page1_7 = '5. Déplacement vers la droite';
+MSG.c3_step_page2_1 = 'Ordonner les blocs';
+MSG.c3_step_page3_1 = 'Définir le temps d\'attente sur 2000 ms';

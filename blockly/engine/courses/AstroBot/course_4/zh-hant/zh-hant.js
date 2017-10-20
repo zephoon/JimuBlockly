@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = '登陸外星';
+MSG.c4_startstory_1 = '阿爾法星的重力是地球的2/5';
+MSG.c4_startstory_2 = '趕緊切換到低重力模式登陸';
+MSG.c4_endstory_1 = '耶，成功登陸阿爾法星啦！';
+MSG.c4_step_page1_1 = '星寶登陸外星，需要切換到低重力模式行走，星寶已經完成待命、抬起右腳、放下右腳、抬起左腳4步，幫助星寶設定最後一步：';
+MSG.c4_step_page1_2 = '1.放下左腳';
+MSG.c4_step_page1_3 = '舵機1：0° 舵機2：40° 舵機3：40° 舵機4：0°';
+MSG.c4_step_page2_1 = '放下左腳';
+MSG.c4_step_page2_2 = '舵機控制星寶的行走，設定舵機的角度參數，幫助星寶放下左腳：';
+MSG.c4_step_page2_3 = '1.開啟舵機';
+MSG.c4_step_page2_4 = '2.選擇舵機ID';
+MSG.c4_step_page2_5 = '3.設定舵機逆時針旋轉';
+MSG.c4_step_page2_6 = '4.設定舵機順時針旋轉';

@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Aterragem planet.';
+MSG.c4_startstory_1 = 'A gravidade da estrela Alpha é 2/5 da da terra.';
+MSG.c4_startstory_2 = 'Mude rapid. para o modo de grav. baixa p/ aterrar.';
+MSG.c4_endstory_1 = 'Boa, aterrou o Alpha com sucesso!';
+MSG.c4_step_page1_1 = 'O Astron aterrou no planeta e precisa de mudar para o modo de grav. baixa para andar. Ele já completou a espera, levantou e baixou o pé direito e levantou o pé esquerdo. Devemos ajudar o Astron a completar o último passo:';
+MSG.c4_step_page1_2 = '1.Baixar o pé esq.';
+MSG.c4_step_page1_3 = 'Servo1:0° Servo2:40° Servo3:40° Servo4:0°';
+MSG.c4_step_page2_1 = 'Baixar o pé esq.';
+MSG.c4_step_page2_2 = 'Os servos controlam como o Astron anda. Precisamos dos parâmetros de ângulo do servo para ajudar o Astron a baixar o pé esquerdo:';
+MSG.c4_step_page2_3 = '1. Ligar o motor do servo';
+MSG.c4_step_page2_4 = '2.Sel. ID do servo.';
+MSG.c4_step_page2_5 = '3.Definir o servo para rodar no sent. anti-horário.';
+MSG.c4_step_page2_6 = '4.Def. o servo para rodar no sent. horário.';

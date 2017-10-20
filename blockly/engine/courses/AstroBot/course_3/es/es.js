@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Prueba';
+MSG.c3_startstory_1 = 'Por último, Astron debe superar una prueba de rendimiento.';
+MSG.c3_endstory_1 = '¡Genial! ¡La movilidad de Astron aún es buena!';
+MSG.c3_endstory_2 = 'Bien, ¡empecemos!';
+MSG.c3_step_page1_1 = 'Misión';
+MSG.c3_step_page1_2 = 'Ayuda a Rover a aprender a andar.';
+MSG.c3_step_page1_3 = '1. Avanzar';
+MSG.c3_step_page1_4 = '2. Retroceder';
+MSG.c3_step_page1_5 = '3. Espera 2000 ms.';
+MSG.c3_step_page1_6 = '4. Mover hacia la izquierda';
+MSG.c3_step_page1_7 = '5. Mover hacia la derecha';
+MSG.c3_step_page2_1 = 'Monta los bloques en orden.';
+MSG.c3_step_page3_1 = 'Pon el tiempo de espera a 2000 ms.';

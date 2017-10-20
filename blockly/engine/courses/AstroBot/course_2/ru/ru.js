@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Разбудите Astron';
+MSG.c2_startstory_1 = 'Далее, установите программу для Astron.';
+MSG.c2_endstory_1 = 'Привет, я вернулся!';
+MSG.c2_endstory_2 = 'Привет, Astron!';
+MSG.c2_step_page1_1 = 'Миссия';
+MSG.c2_step_page1_2 = 'Совместите блок программы в правильном порядке, чтобы разбудить Astron';
+MSG.c2_step_page1_3 = '1. Показать эмодзи';
+MSG.c2_step_page1_4 = '2. Воспроизвести эффект (Эмоция)';
+MSG.c2_step_page1_5 = '3. Ожидание 5000 миллисекунд';
+MSG.c2_step_page2_1 = 'Шаг 1';
+MSG.c2_step_page2_2 = 'Совместите блок программы в правильном порядке';
+MSG.c2_step_page3_1 = 'Шаг 2';
+MSG.c2_step_page3_2 = 'Щелкните «Запуск» для запуска';

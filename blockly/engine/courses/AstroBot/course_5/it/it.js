@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = 'Prosegui';
+MSG.c5_startstory_1 = 'Base Alpha è ancora lontana.';
+MSG.c5_startstory_2 = 'Sbrighiamoci a raggiungere la destinazione.';
+MSG.c5_endstory_1 = 'Finalmente siamo arrivati a base Alpha!';
+MSG.c5_step_page1_1 = 'Missione';
+MSG.c5_step_page1_2 = 'Astron è atterrato sul pianeta ma la base è ancora lontana. Aiutiamolo a raggiungerla:';
+MSG.c5_step_page1_3 = '1. Riproduci effetto (Emozione: gioioso)';
+MSG.c5_step_page1_4 = '2. Ripeti lo spostamento in avanti 3 volte';
+MSG.c5_step_page2_1 = 'Fase 1';
+MSG.c5_step_page2_2 = 'Astron emette un suono di gioia';
+MSG.c5_step_page3_1 = 'Fase 2';
+MSG.c5_step_page3_2 = 'Ripeti lo spostamento in avanti 3 volte';

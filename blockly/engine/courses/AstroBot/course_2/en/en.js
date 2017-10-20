@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Wake-up Astron';
+MSG.c2_startstory_1 = 'Next, install the program for Astron.';
+MSG.c2_endstory_1 = 'Hey, I\'m back!';
+MSG.c2_endstory_2 = 'Hello, Astron!';
+MSG.c2_step_page1_1 = 'Mission';
+MSG.c2_step_page1_2 = 'Combine the program block in correct order to wake up Astron';
+MSG.c2_step_page1_3 = '1.Show emoji';
+MSG.c2_step_page1_4 = '2.Play effect (Emotion)';
+MSG.c2_step_page1_5 = '3.Wait for 5000 milliseconds';
+MSG.c2_step_page2_1 = 'Step 1';
+MSG.c2_step_page2_2 = 'Combine the program block in order';
+MSG.c2_step_page3_1 = 'Step 2';
+MSG.c2_step_page3_2 = 'Click \'Run\' to start';

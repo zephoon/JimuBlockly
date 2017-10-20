@@ -1,0 +1,57 @@
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 502 87.2" width="100%" height="" style="enable-background:new 0 0 302 87.2;" xml:space="preserve">
+<style type="text/css">
+    .st0 { clip-path:url(#XMLID_89_); fill:#51D96E; }
+    .st1 { clip-path:url(#XMLID_90_); fill:#88F49F; }
+    .st2 { fill:none; stroke:#FFFFFF; stroke-width:2; stroke-linecap:round; stroke-miterlimit:10; }
+    .st3 { fill:none; stroke:#FFFFFF; stroke-width:2; stroke-miterlimit:10; }
+    text {
+        font-size:24px;
+        fill:grey;
+        font-family:cursive;
+    }
+</style>
+<script>
+<![CDATA[
+	window.onload = function(){
+		console.log(window.parent.MSG);
+		document.getElementById("content").innerHTML = window.parent.MSG.c2_step_page3_2;
+		console.log(window.parent.MSG.c2_step_page3_2.length);
+		document.getElementById("图层_1").setAttribute('viewBox','0 0 502 87.2');
+		var d = 'M38.6,0l11,9.4c1.7,1.4,4.4,1.4,6.1,0l11-9.4H38.6z M37.6,76h38l-11,9.4c-1.7,1.4-4.4,1.4-6.1,0L37.6,76z M0,0h494c4.4,0,8,3.6,8,8v60c0,4.4-3.6,8-8,8H0V0z';
+		document.getElementById("XMLID_7_").setAttribute('d',d);
+		
+		document.getElementById("XMLID_4_").setAttribute('width','400');
+		document.getElementById("XMLID_1_").setAttribute('width','602');
+	}
+]]>
+</script>
+<g id="XMLID_6_">
+	<defs>
+		<path id="XMLID_7_" d="M38.6,0l11,9.4c1.7,1.4,4.4,1.4,6.1,0l11-9.4H38.6z M37.6,76h28l-11,9.4c-1.7,1.4-4.4,1.4-6.1,0L37.6,76z
+			 M0,0h394c4.4,0,8,3.6,8,8v60c0,4.4-3.6,8-8,8H0V0z"></path>
+	</defs>
+	<clipPath id="XMLID_89_">
+		<use xlink:href="#XMLID_7_" style="overflow:visible;"></use>
+	</clipPath>
+	<rect id="XMLID_1_" class="st0" width="402" height="87.2"></rect>
+</g>
+<g id="XMLID_2_">
+	<defs>
+		<path id="XMLID_3_" d="M160.5,23.5c0-4.4,3.6-8,8-8h208c4.4,0,8,3.6,8,8v32c0,4.4-3.6,8-8,8h-308c-4.4,0-8-3.6-8-8V23.5z"></path>
+	</defs>
+	<clipPath id="XMLID_90_">
+		<use xlink:href="#XMLID_3_" style="overflow:visible;"></use>
+	</clipPath>
+	<rect id="XMLID_4_" x="155.5" y="10.5" class="st1" width="234" height="58"></rect>
+	<text x="162.5" y="47" id="content"></text>
+</g>
+<line class="st2" x1="21.5" y1="25.7" x2="21.5" y2="36.2"></line>
+<line class="st2" x1="21.5" y1="48.5" x2="21.5" y2="53.7"></line>
+<line class="st2" x1="32" y1="25.7" x2="32" y2="29.2"></line>
+<line class="st2" x1="32" y1="43.2" x2="32" y2="53.7"></line>
+<line class="st2" x1="42.5" y1="25.7" x2="42.5" y2="36.2"></line>
+<line class="st2" x1="42.5" y1="50.2" x2="42.5" y2="53.7"></line>
+<circle class="st3" cx="32" cy="36.2" r="3.5"></circle>
+<circle class="st3" cx="42.5" cy="43.2" r="3.5"></circle>
+<circle class="st3" cx="21.5" cy="42.4" r="3.5"></circle>
+</svg>

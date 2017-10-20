@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Test operativo';
+MSG.c3_startstory_1 = 'Infine Astron deve eseguire un test delle prestazioni.';
+MSG.c3_endstory_1 = 'Grandioso! Astron si muove ancora bene!';
+MSG.c3_endstory_2 = 'Ok, proseguiamo!';
+MSG.c3_step_page1_1 = 'Missione';
+MSG.c3_step_page1_2 = 'Aiuta Rover a imparare a camminare.';
+MSG.c3_step_page1_3 = '1.Muovi in avanti';
+MSG.c3_step_page1_4 = '2. Vai indietro';
+MSG.c3_step_page1_5 = '3. Attendi 2000 ms';
+MSG.c3_step_page1_6 = '4. Muovi a sinistra';
+MSG.c3_step_page1_7 = '5. Muovi a destra';
+MSG.c3_step_page2_1 = 'Assembla i blocchi in ordine';
+MSG.c3_step_page3_1 = 'Imposta tempo di attesa a 2000 ms';

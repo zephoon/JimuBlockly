@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'اختبار عمل';
+MSG.c3_startstory_1 = 'أخيرًا، ينبغي أن يخضع Astron لاختبار أداء.';
+MSG.c3_endstory_1 = 'عظيم! لا تزال حركة Astron جيدة!';
+MSG.c3_endstory_2 = 'حسنًا، لننطلق!';
+MSG.c3_step_page1_1 = 'المهمة';
+MSG.c3_step_page1_2 = 'مساعدة Rover في تعلّم كيفية المشي.';
+MSG.c3_step_page1_3 = '1. تحرَّك للأمام';
+MSG.c3_step_page1_4 = '2. تراجع';
+MSG.c3_step_page1_5 = '3. انتظر 2000 م.ث.';
+MSG.c3_step_page1_6 = '4. تحرك يسارًا';
+MSG.c3_step_page1_7 = '5. تحرك يمينًا';
+MSG.c3_step_page2_1 = 'اجمع الكتل بالترتيب';
+MSG.c3_step_page3_1 = 'تعيين وقت الانتظار على 2000 م.ث.';

@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = 'Devam edin';
+MSG.c5_startstory_1 = 'Alpha üssüne hâlâ biraz mesafe var.';
+MSG.c5_startstory_2 = 'Hedefe acele etmeliyiz.';
+MSG.c5_endstory_1 = 'Sonunda Alpha merkezine ulaştık!';
+MSG.c5_step_page1_1 = 'Görev detayları';
+MSG.c5_step_page1_2 = 'Astron gezegene başarılı bir şekilde iniyor, üsten biraz mesafe var, Astron\'a üsse kadar yardım etmeliyiz:';
+MSG.c5_step_page1_3 = '1. Efekt oynat (Duygu: Neşeli)';
+MSG.c5_step_page1_4 = '2. İleri hareketi 3 kez tekrarla';
+MSG.c5_step_page2_1 = 'Adım 1';
+MSG.c5_step_page2_2 = 'Astron neşeli bir ses çıkarıyor.';
+MSG.c5_step_page3_1 = 'Adım 2';
+MSG.c5_step_page3_2 = 'İleri hareketi 3 kez tekrarla';

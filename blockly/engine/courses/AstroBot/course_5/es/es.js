@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = '¡Adelante!';
+MSG.c5_startstory_1 = 'Aún estamos a bastante distancia de la base Alfa.';
+MSG.c5_startstory_2 = 'Debemos darnos prisa para llegar al destino.';
+MSG.c5_endstory_1 = '¡Hemos llegado a la base Alfa!';
+MSG.c5_step_page1_1 = 'Misión';
+MSG.c5_step_page1_2 = 'Astron ha aterrizado en el planeta, pero está lejos de la base. Tenemos que ayudar a Astron a llegar a la base.';
+MSG.c5_step_page1_3 = '1. Reproducir efecto (Emoción: Alegre).';
+MSG.c5_step_page1_4 = '2. Repite el movimiento adelante 3 veces.';
+MSG.c5_step_page2_1 = 'Paso 1';
+MSG.c5_step_page2_2 = 'Astron hace un sonido de alegría.';
+MSG.c5_step_page3_1 = 'Paso 2';
+MSG.c5_step_page3_2 = 'Repite el movimiento adelante 3 veces.';

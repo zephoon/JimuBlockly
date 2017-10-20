@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Astronを起動する';
+MSG.c2_startstory_1 = '次に、Astronのプログラムをインストールします。';
+MSG.c2_endstory_1 = '戻ってきたよ！';
+MSG.c2_endstory_2 = 'こんにちは、Astron！';
+MSG.c2_step_page1_1 = 'ミッション';
+MSG.c2_step_page1_2 = 'プログラムブロックを正しい順番で組み合わせ、Astronを起動してください';
+MSG.c2_step_page1_3 = '1.絵文字を表示する';
+MSG.c2_step_page1_4 = '2.効果音を再生する（感情）';
+MSG.c2_step_page1_5 = '3. 5000ミリ秒待ちます';
+MSG.c2_step_page2_1 = '手順1';
+MSG.c2_step_page2_2 = 'プログラムブロックを順番に組み合わせます';
+MSG.c2_step_page3_1 = '手順2';
+MSG.c2_step_page3_2 = '「実行」をタップして開始';

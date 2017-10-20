@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = 'Geh weiter.';
+MSG.c5_startstory_1 = 'Die Alphabasis liegt immer noch in einiger Entfernung.';
+MSG.c5_startstory_2 = 'Wir müssen schnell ans Ziel kommen.';
+MSG.c5_endstory_1 = 'Wir haben endlich die Alphabasis erreicht!';
+MSG.c5_step_page1_1 = 'Aufgabe';
+MSG.c5_step_page1_2 = 'Astron ist erfolgreich auf dem Planeten gelandet, aber die Basis liegt immer noch in einiger Entfernung. Wir müssen Astron helfen, zu der Basis zu gelangen:';
+MSG.c5_step_page1_3 = '1. Effekt wiedergeben (Emotion: Froh)';
+MSG.c5_step_page1_4 = '2. Wiederhole die Vorwärtsbewegung 3 Mal hintereinander.';
+MSG.c5_step_page2_1 = 'Schritt 1';
+MSG.c5_step_page2_2 = 'Astron macht ein glückliches Geräusch.';
+MSG.c5_step_page3_1 = 'Schritt 2';
+MSG.c5_step_page3_2 = 'Wiederhole die Vorwärtsbewegung 3 Mal hintereinander.';

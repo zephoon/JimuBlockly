@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Planet landing';
+MSG.c4_startstory_1 = 'The gravity of Alpha star is 2/5 of earth\'s.';
+MSG.c4_startstory_2 = 'Quickly switch to low gravity mode to land.';
+MSG.c4_endstory_1 = 'Yoho, you landed on Alpha star successfully!';
+MSG.c4_step_page1_1 = 'Astron has landed on the plant and needs to switch to low gravity mode to walk. He has already completed standby, lifted and lowered his right foot, and lifted his left foot. We must help Astron complete the last step:';
+MSG.c4_step_page1_2 = '1.Lower left foot';
+MSG.c4_step_page1_3 = 'Servo1:0° Servo2:40° Servo3:40° Servo4:0°';
+MSG.c4_step_page2_1 = 'Lower left foot';
+MSG.c4_step_page2_2 = 'Servos control how Astron walks. We need to set the servos\' angle parameters to help Astron put down his left foot:';
+MSG.c4_step_page2_3 = '1. Turn on the servo motor';
+MSG.c4_step_page2_4 = '2.Select servo ID.';
+MSG.c4_step_page2_5 = '3.Set the servo to rotate counterclockwise.';
+MSG.c4_step_page2_6 = '4.Set the servo to rotate clockwise.';

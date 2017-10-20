@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = '運動測試';
+MSG.c3_startstory_1 = '最後，還要測試一下星寶的運動性能';
+MSG.c3_endstory_1 = '太棒了，星寶的運動能力一切正常！';
+MSG.c3_endstory_2 = 'ok，馬上出發吧！';
+MSG.c3_step_page1_1 = '任務說明';
+MSG.c3_step_page1_2 = '幫助星寶學會行走的基本運動：';
+MSG.c3_step_page1_3 = '1.前進';
+MSG.c3_step_page1_4 = '2.後退';
+MSG.c3_step_page1_5 = '3.等待2000毫秒';
+MSG.c3_step_page1_6 = '4.左移';
+MSG.c3_step_page1_7 = '5.右移';
+MSG.c3_step_page2_1 = '按順序組合程式區段';
+MSG.c3_step_page3_1 = '設定等待時間為2000毫秒';

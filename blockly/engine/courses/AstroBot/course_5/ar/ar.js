@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = 'انطلق';
+MSG.c5_startstory_1 = 'لا تزال توجد مسافة حتى قاعدة Alpha.';
+MSG.c5_startstory_2 = 'يجب الإسراع صوب الوجهة.';
+MSG.c5_endstory_1 = 'وصلت إلى قاعدة Alpha أخيرًا!';
+MSG.c5_step_page1_1 = 'المهمة';
+MSG.c5_step_page1_2 = 'هبط Astron بنجاح على الكوكب، توجد مسافة حتى القاعدة، يجب مساعدة Astron على بلوغ القاعدة:';
+MSG.c5_step_page1_3 = '1. تأثير تشغيل (المشاعر: سعيد)';
+MSG.c5_step_page1_4 = '2. تكرار حركة التقدم 3 مرات.';
+MSG.c5_step_page2_1 = 'خطوة 1';
+MSG.c5_step_page2_2 = 'أصدر Astron صوتًا بهيجًا.';
+MSG.c5_step_page3_1 = 'خطوة 2';
+MSG.c5_step_page3_2 = 'تكرار حركة التقدم 3 مرات.';

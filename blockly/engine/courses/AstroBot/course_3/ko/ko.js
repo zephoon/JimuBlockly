@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = '작동 테스트';
+MSG.c3_startstory_1 = '마지막으로, Astron 성능을 테스트해야 합니다.';
+MSG.c3_endstory_1 = '좋습니다! Astron 움직임이 좋습니다!';
+MSG.c3_endstory_2 = '출발합시다!';
+MSG.c3_step_page1_1 = '미션';
+MSG.c3_step_page1_2 = 'Rover가 걷도록 도와주세요.';
+MSG.c3_step_page1_3 = '1. 앞으로 이동';
+MSG.c3_step_page1_4 = '2. 후퇴';
+MSG.c3_step_page1_5 = '3. 2000ms 대기';
+MSG.c3_step_page1_6 = '4. 왼쪽 이동';
+MSG.c3_step_page1_7 = '5. 오른쪽 이동';
+MSG.c3_step_page2_1 = '순서대로 블록 조립';
+MSG.c3_step_page3_1 = '2000ms로 시간 설정';

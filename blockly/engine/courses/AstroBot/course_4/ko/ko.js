@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = '행성 착륙';
+MSG.c4_startstory_1 = 'Alpha 별 중력은 지구의 2/5입니다.';
+MSG.c4_startstory_2 = '착륙하려면 빨리 저중력으로 전환하세요.';
+MSG.c4_endstory_1 = '야호, Alpha 별에 착륙했습니다!';
+MSG.c4_step_page1_1 = 'Astron가 행성에 착륙했으며 걸으려면 저중력 모드로 전환해야 합니다. 오른쪽 발을 준비하고 올리고 내렸으며, 왼쪽 발을 올렸습니다. Astron가 마지막 단계를 완료하도록 도와주세요.';
+MSG.c4_step_page1_2 = '1.왼쪽 발 내리기';
+MSG.c4_step_page1_3 = 'Servo1:0° Servo2:40° Servo3:40° Servo4:0°';
+MSG.c4_step_page2_1 = '왼쪽 발 내리기';
+MSG.c4_step_page2_2 = 'Servo가 Astron의 걷기를 조정합니다. Servo의 각도를 조정하여 Astron가 왼쪽 발을 내리도록 해야 합니다.';
+MSG.c4_step_page2_3 = '1. Servo 모터 작동';
+MSG.c4_step_page2_4 = '2.Servo ID 선택';
+MSG.c4_step_page2_5 = '3.Servo를 반시계 방향으로 회전하도록 설정';
+MSG.c4_step_page2_6 = '4.Servo를 시계 방향으로 회전하도록 설정';

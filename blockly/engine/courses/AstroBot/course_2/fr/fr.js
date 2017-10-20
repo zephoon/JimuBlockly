@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Réveiller Astron';
+MSG.c2_startstory_1 = 'Installe ensuite le programme pour Astron.';
+MSG.c2_endstory_1 = 'Me revoilà !';
+MSG.c2_endstory_2 = 'Bonjour Astron !';
+MSG.c2_step_page1_1 = 'Mission';
+MSG.c2_step_page1_2 = 'Ordonner les blocs du programme pour réveiller Astron';
+MSG.c2_step_page1_3 = '1. Afficher les émojis';
+MSG.c2_step_page1_4 = '2. Lecture d\'effet (Émotion)';
+MSG.c2_step_page1_5 = '3. Attendre 5000 ms';
+MSG.c2_step_page2_1 = 'Étape 1';
+MSG.c2_step_page2_2 = 'Ordonner les blocs du programme';
+MSG.c2_step_page3_1 = 'Étape 2';
+MSG.c2_step_page3_2 = 'Appuyez sur « Exécuter » pour démarrer';

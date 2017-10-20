@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Lądowanie';
+MSG.c4_startstory_1 = 'Siła grawitacji Alpha jest równa 2/5 ziemskiej.';
+MSG.c4_startstory_2 = 'Aby wylądować, szybko użyj trybu niskiej grawitacji.';
+MSG.c4_endstory_1 = 'Lądowanie na Alpha zakończone powodzeniem!';
+MSG.c4_step_page1_1 = 'Astron wylądował na planecie. Użyj trybu niskiej grawitacji, aby mógł chodzić. Wyszedł już z trybu czuwania, podniósł i opuścił prawą stopę oraz podniósł lewą. Musimy pomóc Astron dokończyć ostatni krok:';
+MSG.c4_step_page1_2 = '1.Obniż lewą stopę';
+MSG.c4_step_page1_3 = 'Serwo1:0° Serwo2:40° Serwo3:40° Serwo4:0°';
+MSG.c4_step_page2_1 = 'Obniż lewą stopę';
+MSG.c4_step_page2_2 = 'Serwomechanizmy (serwo) kontrolują chód. Aby Astron postawił na ziemi lewą stopę, musimy ustawić właściwe wartości kątów:';
+MSG.c4_step_page2_3 = '1. Włącz siłownik';
+MSG.c4_step_page2_4 = '2.Wybierz ID serwo.';
+MSG.c4_step_page2_5 = '3.Ustaw obrót serwo w lewą stronę.';
+MSG.c4_step_page2_6 = '4.Ustaw obrót serwo w prawą stronę.';

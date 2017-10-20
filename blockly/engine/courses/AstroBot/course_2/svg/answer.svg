@@ -1,0 +1,23 @@
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 502 87.2" width="100%" height="" style="enable-background:new 0 0 302 87.2;" xml:space="preserve">
+<style type="text/css">
+    .st0 { clip-path:url(#XMLID_89_); fill:#51D96E; }
+    .st1 { clip-path:url(#XMLID_90_); fill:#88F49F; }
+    .st2 { fill:none; stroke:#FFFFFF; stroke-width:2; stroke-linecap:round; stroke-miterlimit:10; }
+    .st3 { fill:none; stroke:#FFFFFF; stroke-width:2; stroke-miterlimit:10; }
+    text {
+        font-size:24px;
+        fill:grey;
+        font-family:cursive;
+    }
+</style>
+<script>
+<![CDATA[
+	window.onload = function(){
+	}
+]]>
+</script>
+<path class="blocklyPath" fill="#0ae8c0" 
+	d="m 0,8 A 8,8 0 0,1 8,0 H 40 H 286.74383544921875 v 28 H 29.5 l -6,4 -3,0 -6,-4 H 8 a 8,8 0 0,1 -8,-8 z
+"></path>
+
+</svg>

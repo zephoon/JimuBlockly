@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Astron\'u Uyandır';
+MSG.c2_startstory_1 = 'Sonra, Astron için programı yükleyin.';
+MSG.c2_endstory_1 = 'Hey, Geri Döndüm!';
+MSG.c2_endstory_2 = 'Merhaba Astron!';
+MSG.c2_step_page1_1 = 'Görev detayları';
+MSG.c2_step_page1_2 = 'Astron\'u uyandırmak için doğru sırayla program bloğunu birleştirin.';
+MSG.c2_step_page1_3 = '1. Emoji göster';
+MSG.c2_step_page1_4 = '2. Efekt oynat (Duygu)';
+MSG.c2_step_page1_5 = '3. 5000 ms bekler';
+MSG.c2_step_page2_1 = 'Adım 1';
+MSG.c2_step_page2_2 = 'Program bloğunu sırayla birleştirin';
+MSG.c2_step_page3_1 = 'Adım 2';
+MSG.c2_step_page3_2 = 'Başlmk için \'Git\'e tıkla';

@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Acorda Astron';
+MSG.c2_startstory_1 = 'De seguida, instale o programa do Astron.';
+MSG.c2_endstory_1 = 'Voltei!';
+MSG.c2_endstory_2 = 'Olá, Astron!';
+MSG.c2_step_page1_1 = 'Missão';
+MSG.c2_step_page1_2 = 'Combine o bloc. de prog. na ordem correta para acordar o Astron';
+MSG.c2_step_page1_3 = '1.Mostrar emoji';
+MSG.c2_step_page1_4 = '2.Reproduzir efeito (Emoção)';
+MSG.c2_step_page1_5 = '3.Aguardar 5000 milisseg.';
+MSG.c2_step_page2_1 = 'Passo 1';
+MSG.c2_step_page2_2 = 'Combine o bloc. de prog. por ordem';
+MSG.c2_step_page3_1 = 'Passo 2';
+MSG.c2_step_page3_2 = 'Toque em "Executar" para iniciar';

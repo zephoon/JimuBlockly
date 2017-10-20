@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Obudź Astron';
+MSG.c2_startstory_1 = 'Potem zainstaluj program Astron.';
+MSG.c2_endstory_1 = 'Cześć, wróciłem!';
+MSG.c2_endstory_2 = 'Cześć Astron!';
+MSG.c2_step_page1_1 = 'Misja';
+MSG.c2_step_page1_2 = 'Aby obudzić Astron, ułóż bloki kodu programu w odpowiedniej kolejności';
+MSG.c2_step_page1_3 = '1.Pokaż emoji';
+MSG.c2_step_page1_4 = '2.Odtwórz efekt (Emocja)';
+MSG.c2_step_page1_5 = '3.Zaczekaj 5000 ms';
+MSG.c2_step_page2_1 = 'Krok 1';
+MSG.c2_step_page2_2 = 'Ułóż bloki kodu programu w kolejności';
+MSG.c2_step_page3_1 = 'Krok 2';
+MSG.c2_step_page3_2 = 'Kliknij „Uruchom”, aby rozpocząć';

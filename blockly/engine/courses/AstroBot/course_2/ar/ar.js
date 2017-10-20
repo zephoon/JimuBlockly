@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'تنشيط Astron';
+MSG.c2_startstory_1 = 'التالي، تثبيت البرنامج لـ Astron.';
+MSG.c2_endstory_1 = 'مرحبًا، لقد عدتُ!';
+MSG.c2_endstory_2 = 'مرحبًا، Astron!';
+MSG.c2_step_page1_1 = 'المهمة';
+MSG.c2_step_page1_2 = 'قم بتركيب كتلة البرنامج في ترتيب صحيح لتنشيط Astron';
+MSG.c2_step_page1_3 = '1.عرض الرموز التعبيرية';
+MSG.c2_step_page1_4 = '2.تأثير تشغيل (المشاعر)';
+MSG.c2_step_page1_5 = '3.انتظر 5000 م.ث.';
+MSG.c2_step_page2_1 = 'خطوة 1';
+MSG.c2_step_page2_2 = 'ترتيب كتلة البرنامج بالترتيب';
+MSG.c2_step_page3_1 = 'خطوة 2';
+MSG.c2_step_page3_2 = 'انقر على "تشغيل" للبدء';

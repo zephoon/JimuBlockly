@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Landingsplanet ';
+MSG.c4_startstory_1 = 'Tyngdekraften på Alpha planeten er 2/5 af jordens tyngdekraft ';
+MSG.c4_startstory_2 = 'Skynd dig at skift til lav tyngdekraft tilstand for at lande ';
+MSG.c4_endstory_1 = 'Sådan, du landede på Alpha stjernen uden problemer! ';
+MSG.c4_step_page1_1 = 'Astron er landet på planeten og bliver nødt til at skifte til lav tyngdekraft for at gå. Han har allerede gennemført standby, løftet og sænket sin højre, og løftet sin venstre fod. Vi bliver nødt til at hjælpe Astron med at gennemføre der sidste trin: ';
+MSG.c4_step_page1_2 = '1. Sænk venstre fod ';
+MSG.c4_step_page1_3 = 'Servoer1:0° Servoer2:40° Servoer3:40° Servoer4:0°';
+MSG.c4_step_page2_1 = 'Sænk venstre fod ';
+MSG.c4_step_page2_2 = 'Servoer hvordan Astron går. Vi bliver nødt tiln at indstille servoerne og vinkel parametre for at hjælpe Astron med at sænke sin venstre fod: ';
+MSG.c4_step_page2_3 = '1. Döndürme dişlisini açın';
+MSG.c4_step_page2_4 = '2. Roter servo ID ';
+MSG.c4_step_page2_5 = '3. Klik for at indstille servo til at rotere mod uret ';
+MSG.c4_step_page2_6 = '4. Klik for at indstille servo til at rotere med uret ';

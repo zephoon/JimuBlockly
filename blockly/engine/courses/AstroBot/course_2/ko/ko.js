@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Astron 깨우기';
+MSG.c2_startstory_1 = '그런 다음, Astron용 프로그램을 설치합니다.';
+MSG.c2_endstory_1 = '안녕, 다시 왔어!';
+MSG.c2_endstory_2 = '안녕, Astron!';
+MSG.c2_step_page1_1 = '미션';
+MSG.c2_step_page1_2 = '프로그램 블록을 정확한 순서로 결합하여 Astron 깨우기';
+MSG.c2_step_page1_3 = '1.이모티콘 표시';
+MSG.c2_step_page1_4 = '2.플레이 효과(감정)';
+MSG.c2_step_page1_5 = '3.5000ms 대기';
+MSG.c2_step_page2_1 = '단계 1';
+MSG.c2_step_page2_2 = '순서대로 프로그램 블록 결합';
+MSG.c2_step_page3_1 = '단계 2';
+MSG.c2_step_page3_2 = '‘실행’을 클릭하여 시작';

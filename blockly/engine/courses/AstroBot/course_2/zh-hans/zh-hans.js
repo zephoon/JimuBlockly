@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = '唤醒星宝';
+MSG.c2_startstory_1 = '接下来,为星宝安装程序';
+MSG.c2_endstory_1 = '哟呵，我回来啦！';
+MSG.c2_endstory_2 = '星宝，你好！';
+MSG.c2_step_page1_1 = '任务';
+MSG.c2_step_page1_2 = '按照正确顺序组合程序块，帮助唤醒星宝：';
+MSG.c2_step_page1_3 = '1.显示表情：眨眼3次';
+MSG.c2_step_page1_4 = '2.播放音效（情绪：疑问）';
+MSG.c2_step_page1_5 = '3.等待5000毫秒';
+MSG.c2_step_page2_1 = '步骤1';
+MSG.c2_step_page2_2 = '按顺序组合程序块';
+MSG.c2_step_page3_1 = '步骤2';
+MSG.c2_step_page3_2 = '点击“运行”程序';

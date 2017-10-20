@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = 'Avançar';
+MSG.c5_startstory_1 = 'Ainda estamos longe da base Alpha.';
+MSG.c5_startstory_2 = 'Devemos nos apressar.';
+MSG.c5_endstory_1 = 'Finalmente chegámos à base Alpha!';
+MSG.c5_step_page1_1 = 'Missão';
+MSG.c5_step_page1_2 = 'O Astron aterra no planeta com sucesso, mas ainda estamos longe da base. Devemos ajudar o Astron a chegar à base:';
+MSG.c5_step_page1_3 = '1. Reproduzir efeito (Emoção: Alegre)';
+MSG.c5_step_page1_4 = '2. Repetir 3 vezes a ação de avançar.';
+MSG.c5_step_page2_1 = 'Passo 1';
+MSG.c5_step_page2_2 = 'O Astron faz um som alegre.';
+MSG.c5_step_page3_1 = 'Passo 2';
+MSG.c5_step_page3_2 = 'Repetir 3 vezes a ação de avançar.';

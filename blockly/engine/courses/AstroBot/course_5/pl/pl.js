@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = 'Ruszaj';
+MSG.c5_startstory_1 = 'Do bazy Alpha jest jeszcze trochę drogi.';
+MSG.c5_startstory_2 = 'Musimy się pospieszyć.';
+MSG.c5_endstory_1 = 'W końcu dotarliśmy do bazy Alpha!';
+MSG.c5_step_page1_1 = 'Misja';
+MSG.c5_step_page1_2 = 'Astron pomyślnie wylądował na planecie, ale do bazy jest jeszcze trochę drogi. Musimy mu pomóc tam dotrzeć:';
+MSG.c5_step_page1_3 = '1. Odtwórz efekt (Emocja: Radosny)';
+MSG.c5_step_page1_4 = '2. Trzykrotnie powtórz akcję ruchu w przód.';
+MSG.c5_step_page2_1 = 'Krok 1';
+MSG.c5_step_page2_2 = 'Astron wydaje radosny dźwięk.';
+MSG.c5_step_page3_1 = 'Krok 2';
+MSG.c5_step_page3_2 = 'Trzykrotnie powtórz akcję ruchu w przód.';

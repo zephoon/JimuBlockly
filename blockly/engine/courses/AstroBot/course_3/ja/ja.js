@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = '動作テスト';
+MSG.c3_startstory_1 = '最後にAstronのパフォーマンステストを行います。';
+MSG.c3_endstory_1 = 'やったね！Astronの動作に問題はありません！';
+MSG.c3_endstory_2 = 'では、次に進みましょう！';
+MSG.c3_step_page1_1 = 'ミッション';
+MSG.c3_step_page1_2 = 'Roverが歩けるようにします。';
+MSG.c3_step_page1_3 = '1. 前に進む';
+MSG.c3_step_page1_4 = '2. 後ろへ下がる';
+MSG.c3_step_page1_5 = '3. 2000ミリ秒待ちます';
+MSG.c3_step_page1_6 = '4. 左に動く';
+MSG.c3_step_page1_7 = '5. 右に動く';
+MSG.c3_step_page2_1 = 'ブロックを順番に組み合わせます';
+MSG.c3_step_page3_1 = '待ち時間を2000ミリ秒に設定します';

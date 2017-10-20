@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = '勇往直前';
+MSG.c5_startstory_1 = '着陆地点离阿尔法基地还有一段距离';
+MSG.c5_startstory_2 = '要抓紧时间赶路才行';
+MSG.c5_endstory_1 = '终于抵达阿尔法基地啦！';
+MSG.c5_step_page1_1 = '任务';
+MSG.c5_step_page1_2 = '星宝成功登陆外星，距离基地还有一段距离，帮助星宝向基地进发：';
+MSG.c5_step_page1_3 = '1.播放音效（情绪：愉快）';
+MSG.c5_step_page1_4 = '2.重复前进3次';
+MSG.c5_step_page2_1 = '步骤1';
+MSG.c5_step_page2_2 = '星宝发出愉快的声音';
+MSG.c5_step_page3_1 = '步骤2';
+MSG.c5_step_page3_2 = '重复前进动作3次';

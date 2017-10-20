@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Проверка работоспособности';
+MSG.c3_startstory_1 = 'Наконец, Astron должен пройти тест на производительность.';
+MSG.c3_endstory_1 = 'Прекрасно! Мобильность Astron все еще хороша!';
+MSG.c3_endstory_2 = 'ОК, перейдем к делу!';
+MSG.c3_step_page1_1 = 'Миссия';
+MSG.c3_step_page1_2 = 'Помогите Rover научиться ходить.';
+MSG.c3_step_page1_3 = '1. Движение вперед';
+MSG.c3_step_page1_4 = '2. Отойти';
+MSG.c3_step_page1_5 = '3. Ожидание 2000 мс';
+MSG.c3_step_page1_6 = '4. Движение влево';
+MSG.c3_step_page1_7 = '5. Движение вправо';
+MSG.c3_step_page2_1 = 'Соберите блоки по порядку';
+MSG.c3_step_page3_1 = 'Установите время ожидания 2000 мс';

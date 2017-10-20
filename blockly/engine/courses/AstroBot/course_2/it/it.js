@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Sveglia, Astron!';
+MSG.c2_startstory_1 = 'Ora installa il programma per Astron.';
+MSG.c2_endstory_1 = 'Ciao, rieccomi!';
+MSG.c2_endstory_2 = 'Ciao Astron!';
+MSG.c2_step_page1_1 = 'Missione';
+MSG.c2_step_page1_2 = 'Combinare il blocco programma nel giusto ordine per svegliare Astron.';
+MSG.c2_step_page1_3 = '1.Visualizza emoji';
+MSG.c2_step_page1_4 = '2.Riproduci effetto(Emozione)';
+MSG.c2_step_page1_5 = '3.Attendi 5000 millisecondi';
+MSG.c2_step_page2_1 = 'Fase 1';
+MSG.c2_step_page2_2 = 'Combinare il blocco programma in ordine';
+MSG.c2_step_page3_1 = 'Fase 2';
+MSG.c2_step_page3_2 = 'Fai clic su "Esegui" per iniziare';

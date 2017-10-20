@@ -1,0 +1,13 @@
+var MSG = window.MSG;
+MSG.course5_title = 'Continue';
+MSG.c5_startstory_1 = 'Nous sommes encore loin de la base Alpha.';
+MSG.c5_startstory_2 = 'Nous devons nous dépêcher d\'arriver.';
+MSG.c5_endstory_1 = 'Nous avons enfin rallié la base Alpha !';
+MSG.c5_step_page1_1 = 'Mission';
+MSG.c5_step_page1_2 = 'Astron a réussi à aplanétir, mais il reste du chemin jusqu\'à la base et nous devons donc aider Astron à la rejoindre :';
+MSG.c5_step_page1_3 = '1. Lecture d\'effet (Émotion : joyeux)';
+MSG.c5_step_page1_4 = '2. Répète l\'action Avant à 3 reprises.';
+MSG.c5_step_page2_1 = 'Étape 1';
+MSG.c5_step_page2_2 = 'Astron émet un son de contentement.';
+MSG.c5_step_page3_1 = 'Étape 2';
+MSG.c5_step_page3_2 = 'Répète l\'action Avant à 3 reprises.';

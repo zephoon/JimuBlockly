@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Funktionstest';
+MSG.c3_startstory_1 = 'Zum Abschluss muss Astron einen Funktionstest durchlaufen.';
+MSG.c3_endstory_1 = 'Großartig!! Astrons Beweglichkeit ist immer noch gut!';
+MSG.c3_endstory_2 = 'Ok, lass uns anfangen!';
+MSG.c3_step_page1_1 = 'Aufgabe';
+MSG.c3_step_page1_2 = 'Hilf Rover dabei, laufen zu lernen.';
+MSG.c3_step_page1_3 = '1. Vorwärts bewegen';
+MSG.c3_step_page1_4 = '2. Sich rückwärts bewegen';
+MSG.c3_step_page1_5 = '3. Warten 2000 ms';
+MSG.c3_step_page1_6 = '4. Nach links bewegen';
+MSG.c3_step_page1_7 = '5. Nach rechts bewegen';
+MSG.c3_step_page2_1 = 'Baue die Blöcke in der richtigen Reihenfolge zusammen.';
+MSG.c3_step_page3_1 = 'Lege für die Wartezeit 2000 ms fest.';

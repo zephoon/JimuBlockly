@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course2_title = 'Væk Astron ';
+MSG.c2_startstory_1 = 'Næste, indstaller programmet til Astron ';
+MSG.c2_endstory_1 = 'Hej, jeg er tilbage! ';
+MSG.c2_endstory_2 = 'Hej, Astron! ';
+MSG.c2_step_page1_1 = 'Ordre: ';
+MSG.c2_step_page1_2 = 'Saml klodserne i korrekt rækkefølge og væk op Astron: ';
+MSG.c2_step_page1_3 = '1. Vis emoji';
+MSG.c2_step_page1_4 = '2. Afspil.effekt (Emotion)';
+MSG.c2_step_page1_5 = '3. Indstil ventetil til 5000 ms ';
+MSG.c2_step_page2_1 = 'Trin 1';
+MSG.c2_step_page2_2 = 'Saml klodersne i rækkefølge ';
+MSG.c2_step_page3_1 = 'Trin 2';
+MSG.c2_step_page3_2 = 'Tryk "Kør" for at starte';

@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Aplanétissage';
+MSG.c4_startstory_1 = 'La gravité de l\'étoile Alpha vaut 2/5 celle de la terre.';
+MSG.c4_startstory_2 = 'Passe vite en mode faible gravité pour aplanétir.';
+MSG.c4_endstory_1 = 'Bravo, aplanétissage sur l\'étoile Alpha réussi !';
+MSG.c4_step_page1_1 = 'Astron a aplanéti et doit maintenant passer en mode faible gravité pour marcher. Il a déjà réussi la mise en veille, à lever et baisser son pied droit et à lever son pied gauche. Nous devons aider Astron à réussir la dernière étape :';
+MSG.c4_step_page1_2 = '1. Baisser le pied gauche';
+MSG.c4_step_page1_3 = 'Servo 1 : 0° Servo 2 : 40° Servo 3 : 40° Servo 4 : 0°';
+MSG.c4_step_page2_1 = 'Baisser le pied gauche';
+MSG.c4_step_page2_2 = 'Les servos contrôlent les déplacements de Astron. Nous devons définir les paramètres angulaires des servos pour aider Astron à baisser le pied gauche :';
+MSG.c4_step_page2_3 = '1. Allumer le servomoteur';
+MSG.c4_step_page2_4 = '2. Sélectionner l\'ID du servo';
+MSG.c4_step_page2_5 = '3. Définir la rotation antihoraire du servo.';
+MSG.c4_step_page2_6 = '4. Définir la rotation horaire du servo.';

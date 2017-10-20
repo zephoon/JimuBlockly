@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Sbarco planetario';
+MSG.c4_startstory_1 = 'La gravità su stella Alpha è 2/5 quella della Terra.';
+MSG.c4_startstory_2 = 'Passa subito in modalità bassa gravità per atterrare';
+MSG.c4_endstory_1 = 'Urrà! Sei riuscito ad atterrare su stella Alpha!';
+MSG.c4_step_page1_1 = 'Astron è atterrato sul pianeta e deve passare alla modalità bassa gravità per camminare. Ha già completato lo standby, sollevato e abbassato il piede destro e sollevato quello sinistro. Aiutiamo Astron a completare l\'ultima fase:';
+MSG.c4_step_page1_2 = '1.Abbassa piede sinistro';
+MSG.c4_step_page1_3 = 'Servo1: 0° Servo2: 40° Servo3: 40° Servo4: 0°';
+MSG.c4_step_page2_1 = 'Abbassa piede sx';
+MSG.c4_step_page2_2 = 'I servomotori controllano i passi di Astron. Impostiamo i parametri di angolazione dei servo per aiutare Astron ad abbassare il piede sx:';
+MSG.c4_step_page2_3 = '1. Accendi il servomotore';
+MSG.c4_step_page2_4 = '2.Seleziona ID servo';
+MSG.c4_step_page2_5 = '3.Imposta servo per ruotare in senso antiorario';
+MSG.c4_step_page2_6 = '4.Imposta servo per ruotare in senso orario';

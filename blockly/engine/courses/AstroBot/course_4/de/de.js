@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course4_title = 'Planetenlandung';
+MSG.c4_startstory_1 = 'Die Schwerkraft auf dem Alphastern beträgt 2/5 der Schwerkraft auf der Erde.';
+MSG.c4_startstory_2 = 'Wechsle schnell in den Modus „Niedrige Schwerkraft“, um zu landen.';
+MSG.c4_endstory_1 = 'Juhu! Deine Landung auf dem Alphastern war erfolgreich.';
+MSG.c4_step_page1_1 = 'Astron ist auf dem Planeten gelandet und muss in den Modus „Niedrige Schwerkraft“ wechseln, um zu laufen. Er hat den Bereitschaftsmodus bereits abgeschlossen, seinen linken Fuß angehoben und wieder abgestellt und seinen rechten Fuß angehoben. Wir müssen Astron dabei helfen, den letzten Schritt abzuschließen:';
+MSG.c4_step_page1_2 = '1. Linken Fuß abstellen';
+MSG.c4_step_page1_3 = 'Servo1:0° Servo2:40° Servo3:40° Servo4:0°';
+MSG.c4_step_page2_1 = 'Linken Fuß abstellen';
+MSG.c4_step_page2_2 = 'Die Servos steuern, wie Astron läuft. Wir müssen die Winkelparameter für die Servos festlegen, um Astron dabei zu helfen, seinen linken Fuß abzustellen:';
+MSG.c4_step_page2_3 = '1. Servomotor einschalten';
+MSG.c4_step_page2_4 = '2. Servo-ID auswählen';
+MSG.c4_step_page2_5 = '3.Den Servo auf linksdrehend (gegen den Uhrzeigersinn) festlegen';
+MSG.c4_step_page2_6 = '4.Den Servo auf rechtsdrehend (im Uhrzeigersinn) festlegen';

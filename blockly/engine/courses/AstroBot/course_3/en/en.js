@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Working test';
+MSG.c3_startstory_1 = 'Lastly, Astron has to go through a performance test.';
+MSG.c3_endstory_1 = 'Great! Astron\'s mobility is still good!';
+MSG.c3_endstory_2 = 'Ok, let\'s get going!';
+MSG.c3_step_page1_1 = 'Mission';
+MSG.c3_step_page1_2 = 'Help Rover learn how to walk.';
+MSG.c3_step_page1_3 = '1.Move Forward';
+MSG.c3_step_page1_4 = '2. Move backward';
+MSG.c3_step_page1_5 = '3. Wait for 2000 ms';
+MSG.c3_step_page1_6 = '4. Move to left';
+MSG.c3_step_page1_7 = '5. Move to right';
+MSG.c3_step_page2_1 = 'Assemble the blocks in order';
+MSG.c3_step_page3_1 = 'Set the wait time to 2000 ms';

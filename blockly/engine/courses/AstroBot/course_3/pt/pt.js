@@ -1,0 +1,14 @@
+var MSG = window.MSG;
+MSG.course3_title = 'Teste de func.';
+MSG.c3_startstory_1 = 'Por fim, o Astron deve passar por um teste de func.';
+MSG.c3_endstory_1 = 'Ótimo! A mobilidade do Astron ainda é boa!';
+MSG.c3_endstory_2 = 'Ok, vamos lá!';
+MSG.c3_step_page1_1 = 'Missão';
+MSG.c3_step_page1_2 = 'Ajude o Rover a aprender a andar.';
+MSG.c3_step_page1_3 = '1.Andar para a frente';
+MSG.c3_step_page1_4 = '2. Afastar';
+MSG.c3_step_page1_5 = '3. Aguardar 2000 ms';
+MSG.c3_step_page1_6 = '4. Ir para a esquerda';
+MSG.c3_step_page1_7 = '5. Ir para a direita';
+MSG.c3_step_page2_1 = 'Montar os blocos por ordem';
+MSG.c3_step_page3_1 = 'Definir o tempo de esp. p/ 2000ms';

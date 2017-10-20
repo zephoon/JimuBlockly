@@ -1,0 +1,238 @@
+/*新手指引 style start*/
+.skip_btn {
+    bottom: 6%;
+    right: 5%;
+    display: inline-block;
+    border: 1px solid #ddd;
+    background: white;
+    color: #39c6ea;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 60px;
+    box-shadow: inset 0 1px 1px rgb(57, 198, 234),0 0 8px rgb(57, 198, 234);
+    display: none;
+}
+.introduce_img, .desc_text {
+    position: absolute;
+}
+.desc_text {
+    left: 0;
+    width: 100%;
+}
+.introduce_img {
+    max-width: 170px;
+}
+.save_img {
+    right: 40%;
+    top: 3%;
+    max-width: 140px;
+}
+.save_text {
+    top: 40%;
+}
+.project_img {
+    right: 30%;
+    top: 8%;
+}
+.project_text {
+    top: 36%;
+    width: 80%;
+    right: 5%;
+    left: auto;
+}
+.swift_img {
+    right: 24%;
+    top: 8%;
+    max-width: 200px;
+}
+.swift_text {
+    top: 36%;
+}
+.help_img {
+    right: 10%;
+    top: 8%;
+    max-width: 200px;
+}
+.help_text {
+    top: 36%;
+}
+.run_btn {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 11.11%;
+    width: 126px;
+}
+.run_img {
+    bottom: 14%;
+    left: 14%;
+}
+.down_arror_div {
+    position: absolute;
+    bottom: 12%;
+    left: 70px;
+}
+.run_text {
+    position: absolute;
+    bottom: 24%;
+    left: calc(14% + 170px);
+    width: 50%;
+    justify-content: left;
+    top: auto !important;
+    bottom: calc(14% + 30px) !important;
+}
+/*帮助页面*/
+.help_list_box {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+    overflow: auto;
+    background: #fff;
+}
+
+.help_list_title {
+    position: fixed;
+    z-index: 9999;
+    height: 49px;
+    line-height: 49px;
+    top: 0px;
+    left: 0px;
+    background: #fff;
+    width: 100%;
+    text-align: center;
+    font-size: 1em;
+    border-bottom: 1px solid #ddd;
+}
+.help_list_content {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    background: #fff;
+    width: 100%;
+    /*height:calc(100vh - 39px);*/
+    height:100%;
+    padding-top:50px;
+    box-sizing:border-box;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
+}
+.help_list_content iframe{
+    border:none;
+    height:100%;
+    width:100%;
+}
+.project_list_ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    list-style: none;
+    height: 100%;
+    overflow: auto;
+}
+.project_box {
+    height: 45px;
+    border-bottom: 1px solid #ddd;
+    line-height: 45px;
+    position: relative;
+}
+.return_blockly {
+    position: absolute;
+    width: 60px;
+    height: 100%;
+    left: 0;
+    top: 0;
+    color: #5fb9fe;
+}
+.project_return {
+    color: #a0a0a0;
+}
+.project_delete {
+    font-size: 1.8em;
+    color: red;
+    position: absolute;
+    right: 3%;
+    top: 0;
+    width: 50px;
+    height: 100%;
+}
+/*大于ipad大小*/
+@media screen and (max-width: 1524px) {
+}
+/*ipad*/
+@media screen and (max-width: 1024px) {
+}
+/* 兼容iphone6 plus */
+@media screen and (max-width:860px){
+    .introduce_img {
+        max-width: 150px;
+    }
+    .save_img {
+        right: 46%;
+        top: 9%;
+        max-width: 120px;
+    }
+    .save_text {
+        top: 56%;
+    }
+    .project_img {
+        right: 34%;
+        top: 18%;
+    }
+    .project_text {
+        top: 52%;
+    }
+    .swift_img {
+        right: 26%;
+        top: 12%;
+        max-width: 190px;
+    }
+    .swift_text {
+        top: 52%;
+    }
+    .help_img {
+        right: 9%;
+        top: 13%;
+        max-width: 190px;
+    }
+    .help_text {
+        top: 52%;
+    }
+    .run_btn {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 11.11%;
+        width: 126px;
+    }
+    .run_img {
+        bottom: 14%;
+        left: 14%;
+    }
+    .down_arror_div {
+        position: absolute;
+        bottom: 12%;
+        left: 70px;
+    }
+    .run_text {
+        bottom: 33%;
+    }
+}
+@media screen and (max-width:736px){/* 兼容iphone6 plus */
+    .desc_text {
+        top: 60%;
+    }
+}
+@media screen and (max-width:568px) {/* 兼容iphone5/5c */
+   .desc_text {
+        top: 68%;
+    }
+}
